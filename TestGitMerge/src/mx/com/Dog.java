@@ -6,4 +6,8 @@ public class Dog extends Animal{
 		String ot = "";
 	}
 	
+	public void metodoEnEclipse(){
+		
+	}
+	
 }
