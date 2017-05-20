@@ -3,7 +3,10 @@ package mx.com;
 public class Dog extends Animal{
 
 	public void metodoDog(){
-		// se agrega comentario en exlipse
+	    Object onj = new Object();
+	}
+	
+	public void otroDesdeGithub(){
 	}
 	
 }
