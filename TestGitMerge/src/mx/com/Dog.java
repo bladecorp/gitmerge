@@ -2,12 +2,11 @@ package mx.com;
 
 public class Dog extends Animal{
 
-	public void metodoDog(){
+	public void metodoPerro(){
 		String ot = "";
 	}
 	
-	public void metodoEnEclipse(){
-	
+	public void metodoPerro2(){
 	}
 	
 }
