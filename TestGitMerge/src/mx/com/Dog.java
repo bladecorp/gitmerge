@@ -3,10 +3,10 @@ package mx.com;
 public class Dog extends Animal{
 
 	public void metodoDog(){
-		int[] array = {1,2,3};
+		List<String> cadenas = new ArrayList<>();
 	}
 	
-	public void metodoConfictivo(){
+	public void metodoConGit(){
 	
 	}
 	
