@@ -9,4 +9,7 @@ public class Dog extends Animal{
 	public void metodoPerro2(){
 	}
 	
+	public void metodoPerroSinConclivto(){
+	}
+	
 }
