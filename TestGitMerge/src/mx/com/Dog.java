@@ -1,12 +1,15 @@
 package mx.com;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Dog extends Animal{
 
-	public void metodoPerro(){
-		String ot = "";
+	public void metodoDog(){
+		List<String> cadenas = new ArrayList<>();
 	}
 	
-	public void metodoPerro2(){
+	public void metodoConConflict(){
 	}
 	
 	public void metodoPerroSinConclivto(){
