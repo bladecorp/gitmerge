@@ -3,10 +3,10 @@ package mx.com;
 public class Dog extends Animal{
 
 	public void metodoDog(){
-		String ot = "";
+		int[] array = {1,2,3};
 	}
 	
-	public void metodoEnEclipse(){
+	public void metodoConfictivo(){
 	
 	}
 	
